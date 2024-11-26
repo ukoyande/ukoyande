@@ -1,4 +1,4 @@
-## Hi am Uday Koyande, a DevOps Professional passionate about learning and implementing new technologies. Skilled in CI/CD, Automation, Containerization, Python, and IaC. I am an AWS Certified Cloud Practitioner👋
+Hi am Uday Koyande, a DevOps Professional passionate about learning and implementing new technologies. Skilled in CI/CD, Automation, Containerization, Python, and IaC. I am an AWS Certified Cloud Practitioner
 
 <!--
 **ukoyande/ukoyande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
